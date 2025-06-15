@@ -13,6 +13,6 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamperz&layout=default&hide=jupyter%20notebook&langs_count=8" 
     alt="Most Used Languages" 
-    width="100%" 
-    style="max-height: 200px;" />
+    width="600" />
 </p>
+
