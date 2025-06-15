@@ -10,5 +10,5 @@
 - 📫 How to reach me **abraham.perez.mar@gmail.com** and **[Linkedin](https://github.com/abrahamperz/)**
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamperz&layout=compact&hide=jupyter%20notebook" alt="abrahamperz" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamperz&layout=donut&hide=jupyter%20notebook&langs_count=8&theme=default" alt="Most Used Languages" width="100%" />
 </p>
