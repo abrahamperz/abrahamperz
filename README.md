@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **abraham.perez.mar@gmail.com** and **[Linkedin](https://github.com/abrahamperz/)**
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamperz&layout=donut&hide=jupyter%20notebook&langs_count=8&theme=default" alt="Most Used Languages" width="100%" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamperz&layout=default&hide=jupyter%20notebook&langs_count=8" 
+    alt="Most Used Languages" 
+    width="100%" 
+    style="max-height: 200px;" />
 </p>
