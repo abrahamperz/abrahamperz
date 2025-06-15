@@ -9,5 +9,8 @@
 
 - 📫 How to reach me **abraham.perez.mar@gmail.com** and **[Linkedin](https://github.com/abrahamperz/)**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamperz&layout=compact" alt="abrahamperz" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamperz&layout=compact&hide=jupyter%20notebook" alt="abrahamperz" />
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abrahamperz&show_icons=true" alt="abrahamperz" /></p>
