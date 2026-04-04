@@ -2,8 +2,6 @@
 
 Building AI systems, infrastructure, and autonomous agents that amplify human capability.
 
-Interested in developing new algorithms, systems, and theories to empower people and society through computer science.
-
 ## Now
 
 ### **[Danil](https://danil.ai)** — Context Infrastructure for AI Employees
