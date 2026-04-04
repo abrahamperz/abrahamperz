@@ -10,14 +10,6 @@ Interested in developing new algorithms, systems, and theories to empower people
 
 Danil enables companies to deploy autonomous AI employees that understand business context and operate across customer communication channels from day one.
 
-**Platform Highlights**
-
-- Multi-tenant AI SaaS platform running across **8 distributed microservices**
-- Unified context & memory layer using **PostgreSQL + pgvector**
-- Secure multi-tenant architecture
-- Real-time messaging infrastructure across customer communication channels (WhatsApp, Instagram, Messenger, Web, and others)
-- **LangGraph orchestration engine** coordinating 5 autonomous AI agents
-
 **Role:** Co-Founder & CTO  
 Designing system architecture, AI orchestration, and platform infrastructure end-to-end.
 
