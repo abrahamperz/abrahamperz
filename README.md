@@ -10,7 +10,7 @@ Under the hood: multi-tenant B2B SaaS across 8 microservices on AWS EC2, full da
 
 ## Before
 
-**Insulet** — Senior Software Engineer. Built automated reporting solutions in Datadog and a full-stack deployment pipeline tool to reduce manual engineering overhead.
+**Insulet** — Senior Software Engineer.
 
 **Oracle Cloud** — Software Engineer II. Developed and maintained RESTful services for infrastructure provisioning, owned SLA performance, and built a Python automation framework for Orachk/Exachk database health tools.
 
