@@ -18,13 +18,6 @@ Under the hood: multi-tenant B2B SaaS across 8 microservices on AWS EC2, full da
 
 **[Self-Driving Car](https://bit.ly/jeep-ai)** — Project Manager & Software Developer. Led the design and development of a Level 2 autonomous vehicle, integrating computer vision and real-time control systems. [Watch the demo →](https://www.facebook.com/watch/?v=2096455337099182&t=1)
 
-## Education
-
-**M.S. Computer Science — AI Specialization** · University of Colorado Boulder · 2025–2027
-
-**B.E. Mechatronics Engineering** · Tec de Monterrey · 2017–2022
-
-
 ---
 
 ### 🤝 How to reach me
