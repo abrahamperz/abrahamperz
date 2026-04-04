@@ -1,12 +1,26 @@
 # Abraham Perez
 
+Building AI systems, infrastructure, and autonomous agents that amplify human capability.
+
 Interested in developing new algorithms, systems, and theories to empower people and society through computer science.
 
 ## Now
 
-**[Danil](https://danil.ai)** - The context layer for customer-facing AI. Connect your channels, describe your business in plain language, your AI employee works from day one. 
+### **[Danil](https://danil.ai)** — Context Infrastructure for AI Employees
 
-Under the hood: multi-tenant B2B SaaS across 8 microservices on AWS EC2, full data layer with PostgreSQL + pgvector, RLS, RBAC, real-time messaging, and a LangGraph orchestration engine with 5 autonomous agents running across WhatsApp, Instagram, and Web. Built the entire platform solo — in production, with paying customers, in under a year.
+Danil enables companies to deploy autonomous AI employees that understand business context and operate across customer communication channels from day one.
+
+**Platform Highlights**
+
+- Multi-tenant AI SaaS platform running across **8 distributed microservices**
+- Unified context & memory layer using **PostgreSQL + pgvector**
+- Secure multi-tenant architecture
+- Real-time messaging infrastructure across customer communication channels (WhatsApp, Instagram, Messenger, Web, and others)
+- **LangGraph orchestration engine** coordinating 5 autonomous AI agents
+
+**Role:** Co-Founder & CTO  
+Designing system architecture, AI orchestration, and platform infrastructure end-to-end.
+
 
 ## Before
 
