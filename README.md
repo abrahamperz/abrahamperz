@@ -1,10 +1,7 @@
 # Abraham Perez
 
-Founder and Software Engineer specializing in AI orchestration, full-stack development, and cloud infrastructure. Designing and leading end-to-end system architecture, AI orchestration, and scalable platform infrastructure for a B2B SaaS environment, with a strong focus on automation and autonomous systems
+Ex-founder and Software Engineer specializing in AI orchestration, full-stack development, and cloud infrastructure. Designing and leading end-to-end system architecture, AI orchestration, and scalable platform infrastructure for a B2B SaaS environment, with a strong focus on automation and autonomous systems
 
-### **[Danil](https://danil.ai)** — Context Infrastructure for AI Employees
-
-Danil enables companies to deploy autonomous AI employees that understand business context and operate across customer communication channels from day one.
 
 ---
 
